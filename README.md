@@ -49,10 +49,10 @@ The manufacturing processes for products A–C are as follows:
 | B     | centered      |   $12 |
 | C     | are neat      |    $1 |
 
-| --- | 1 | 2 | 3 | 4 | 5 | 6
-| A | nuzky |	vrtacka |	ohybacka |	svarecka |	vrtacka |	lakovna
-| B | vrtacka |	nuzky |	freza |	vrtacka |	lakovna |	sroubovak
-| C | freza |	vrtacka |	sroubovak |	vrtacka |	freza |	lakovna
+| --- | 1 | 2 | 3 | 4 | 5 | 6 |
+| A | nuzky |	vrtacka |	ohybacka |	svarecka |	vrtacka |	lakovna |
+| B | vrtacka |	nuzky |	freza |	vrtacka |	lakovna |	sroubovak |
+| C | freza |	vrtacka |	sroubovak |	vrtacka |	freza |	lakovna |
 
 Operation times in milliseconds at the workstations are as follows:<br />
 * nuzky: 100
