@@ -43,11 +43,11 @@ Termination of the application occurs after the departure of all workers.
 # Factory varaibles
 
 The manufacturing processes for products A–C are as follows:
-| Tables        | Are           | Cool  |
+| Tables        | 1          | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| A     | right-aligned | $1600 |
+| B     | centered      |   $12 |
+| C     | are neat      |    $1 |
 
 | --- | 1 | 2 | 3 | 4 | 5 | 6
 | A | nuzky |	vrtacka |	ohybacka |	svarecka |	vrtacka |	lakovna
